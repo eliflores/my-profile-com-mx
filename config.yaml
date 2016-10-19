@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://http://elifloresch.github.io/blog"
+title: "La Petite Ensenadoise"
+canonifyurls: true
+theme: "academic"
+...
