@@ -84,8 +84,8 @@ googleAnalytics = ""
   weight = 1
 
 [[menu.main]]
-  name = "Favorite Quotes"
-  url = "#the"
+  name = "Publications"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -94,13 +94,13 @@ googleAnalytics = ""
   weight = 3
 
 [[menu.main]]
-  name = "Students"
-  url = "#students"
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Teachings of the Force"
-  url = "#teachings-of-the-force"
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
