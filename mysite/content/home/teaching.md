@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own home page section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
+date = "2016-11-04T00:00:00"
 draft = false
 
 title = "Teaching"
@@ -13,12 +13,8 @@ weight = 50
 
 +++
 
-I am a teaching instructor for the following courses at University X:
+I am a teaching instructor for the following courses at Force University:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CS101: An intro to force
+- JD101: Jedi History
+- PS101: My father is Darth Vader now what?

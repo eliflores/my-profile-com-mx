@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2016-11-04T00:00:00"
 draft = false
 
 widget = "about"
@@ -13,9 +13,9 @@ weight = 0
 [interests]
   title = "Interests"
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "The force",
+    "Darth Vader",
+    "Rebel Alliance"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,24 +23,18 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Jedi Force"
+  institution = "YODA University"
+  year = 2050
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "X-Wing crash course"
+  institution = "Rebel Institute of Aircrafts"
+  year = 2040
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Luke Skywalker was a Force-sensitive human male Jedi Master who was instrumental in defeating the Galactic Empire and the Sith during the Galactic Civil War. He was the son of the redeemed Jedi Knight Anakin Skywalker and Senator Padmé Amidala, the grandson of Shmi Skywalker Lars, the grandson of both Ruwee Naberrie and Jobal Naberrie, the step-nephew of Owen and Beru Lars, the twin brother of Leia Organa and the uncle of Ben Solo. Skywalker and his sister were born on the asteroid Polis Massa, unbeknownst to their father, the recently christened Sith Lord Darth Vader. After his mother died in labor, Skywalker was separated from his sister and taken by Jedi Master Obi-Wan Kenobi to the planet Tatooine to be raised by the Lars family, out of sight of the Galactic Empire.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. Etiam iaculis libero hendrerit ipsum tempus accumsan. Praesent ex justo, aliquam bibendum nulla in, vehicula rhoncus massa. Fusce gravida mattis tellus vel commodo. Etiam molestie non ligula ac venenatis. Integer semper diam at fringilla dapibus. Nunc tincidunt lacinia nisi, sed blandit purus fermentum vel. Morbi tempus dolor dolor. Phasellus scelerisque est elit, et porttitor mauris faucibus sit amet. Phasellus sollicitudin bibendum sem eu blandit. Curabitur congue felis eu velit faucibus porta. Curabitur a pharetra diam.

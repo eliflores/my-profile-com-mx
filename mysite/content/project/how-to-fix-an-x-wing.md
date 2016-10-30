@@ -1,11 +1,11 @@
 +++
 client_name = ""
-date = "2016-04-27"
+date = "2016-11-04"
 image = ""
 image_preview = ""
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "I'll teach you how to fix an X-wing and not die in the process."
 tags = []
-title = "Deep Learning"
+title = "How to fix an X-wing for dummies"
 external_link = ""
 
 +++

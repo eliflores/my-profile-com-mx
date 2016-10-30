@@ -1,5 +1,5 @@
 baseurl = "https://example.com"
-title = "Academic Theme"
+title = "About me"
 copyright = "&copy; 2016 Luke Skywalker"
 languageCode = "en-us"
 theme = "academic"
@@ -82,11 +82,6 @@ googleAnalytics = ""
   name = "Home"
   url = "#top"
   weight = 1
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 2
 
 [[menu.main]]
   name = "Posts"
