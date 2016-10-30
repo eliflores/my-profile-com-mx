@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home-rsses on About me</title>
+    <link>https://example.com/home/index.xml</link>
+    <description>Recent content in Home-rsses on About me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Luke Skywalker</copyright>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://example.com/home/about/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Luke Skywalker was a Force-sensitive human male Jedi Master who was instrumental in defeating the Galactic Empire and the Sith during the Galactic Civil War. He was the son of the redeemed Jedi Knight Anakin Skywalker and Senator Padmé Amidala, the grandson of Shmi Skywalker Lars, the grandson of both Ruwee Naberrie and Jobal Naberrie, the step-nephew of Owen and Beru Lars, the twin brother of Leia Organa and the uncle of Ben Solo. Skywalker and his sister were born on the asteroid Polis Massa, unbeknownst to their father, the recently christened Sith Lord Darth Vader. After his mother died in labor, Skywalker was separated from his sister and taken by Jedi Master Obi-Wan Kenobi to the planet Tatooine to be raised by the Lars family, out of sight of the Galactic Empire.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://example.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/home/teaching/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/teaching/</guid>
+      <description>&lt;p&gt;I am a teaching instructor for the following courses at Force University:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CS101: An intro to force&lt;/li&gt;
+&lt;li&gt;JD101: Jedi History&lt;/li&gt;
+&lt;li&gt;PS101: My father is Darth Vader now what?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
