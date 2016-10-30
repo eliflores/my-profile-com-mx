@@ -4,6 +4,10 @@ copyright = "&copy; 2016 Luke Skywalker"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
