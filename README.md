@@ -61,6 +61,7 @@
 
 ###Publish to Github Pages
 
+1. hugo convert toYAML --unsafe
 
 ## References
 1. http://gohugo.io/tutorials/github-pages-blog/

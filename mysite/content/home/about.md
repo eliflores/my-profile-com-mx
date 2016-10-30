@@ -1,38 +1,24 @@
-+++
-# About/Biography widget.
-
-date = "2016-11-04T00:00:00"
-draft = false
-
-widget = "about"
-
-# Order that this section will appear in.
-weight = 0
-
-# List your academic interests.
-[interests]
-  title = "Interests"
-  interests = [
-    "The force",
-    "Darth Vader",
-    "Rebel Alliance"
-  ]
-
-# List your qualifications (such as academic degrees).
-[education]
-  title = "Education"
-
-[[education.courses]]
-  course = "PhD in Jedi Force"
-  institution = "YODA University"
-  year = 2050
-
-[[education.courses]]
-  course = "X-Wing crash course"
-  institution = "Rebel Institute of Aircrafts"
-  year = 2040
- 
-+++
+---
+date: 2016-11-04T00:00:00
+draft: false
+education:
+  courses:
+  - course: PhD in Jedi Force
+    institution: YODA University
+    year: 2050
+  - course: X-Wing crash course
+    institution: Rebel Institute of Aircrafts
+    year: 2040
+  title: Education
+interests:
+  interests:
+  - The force
+  - Darth Vader
+  - Rebel Alliance
+  title: Interests
+weight: 0
+widget: about
+---
 
 # Biography
 

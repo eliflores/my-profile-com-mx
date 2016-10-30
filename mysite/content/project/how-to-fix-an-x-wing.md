@@ -1,14 +1,13 @@
-+++
-client_name = ""
-date = "2016-11-04"
-image = ""
-image_preview = ""
-summary = "I'll teach you how to fix an X-wing and not die in the process."
-tags = []
-title = "How to fix an X-wing for dummies"
-external_link = ""
-
-+++
+---
+client_name: ""
+date: 2016-11-04
+external_link: ""
+image: ""
+image_preview: ""
+summary: I'll teach you how to fix an X-wing and not die in the process.
+tags: []
+title: How to fix an X-wing for dummies
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
