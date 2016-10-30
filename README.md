@@ -65,7 +65,8 @@
 2. 
 
 ## References
-1. http://gohugo.io/tutorials/github-pages-blog/
-2. https://pages.github.com/
-3. http://themes.gohugo.io/academic/
-4. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://gohugo.io/tutorials/github-pages-blog/
+* https://pages.github.com/
+* http://themes.gohugo.io/academic/
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+*  http://codethejason.github.io/blog/setupghpages/
