@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Luke Skywalker</copyright>
     <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to fix an X-wing for dummies</title>
