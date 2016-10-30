@@ -59,7 +59,7 @@
     * [[menu.main]]
 5. Update the content of your site
 
-##Publish to Github Pages
+###Publish to Github Pages
 
 
 ## References
