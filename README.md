@@ -61,10 +61,30 @@
 
 ###Publish to Github Pages
 
-1. hugo convert toYAML --unsafe
+1. Modify mysite/config.toml file to add the lines that will allow your site to be published.
+2. Make sure all your latest changes are committed and pushed.
+3. git checkout --orphan gh-pages
+4. git rm --cached $(git ls-files)
+5. git checkout master README.md
+6. git add .
+7. git commit -m "INIT: initial commit on gh-pages branch"
+8. git push origin gh-pages
+9. git checkout master
+10. rm -rf public
+11. git subtree add --prefix=public `repo_url` gh-pages --squash
+12. git subtree pull --prefix=public `repo_url` gh-pages
+13. cd mysite
+14. hugo -t "academic"
+15. cd ..
+16. mv mysite/public .
+17. git add -A
+18. git commit -m "Updating site" && git push origin master
+19. git subtree push --prefix=public `repo_url` gh-pages
+
 
 ## References
-1. http://gohugo.io/tutorials/github-pages-blog/
-2. https://pages.github.com/
-3. http://themes.gohugo.io/academic/
-4. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://gohugo.io/tutorials/github-pages-blog/
+* https://pages.github.com/
+* http://themes.gohugo.io/academic/
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://codethejason.github.io/blog/setupghpages/
