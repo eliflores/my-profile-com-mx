@@ -4,6 +4,8 @@ copyright = "&copy; 2016 Luke Skywalker"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
+
+# Add before publishing the site.
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
