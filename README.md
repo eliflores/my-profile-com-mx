@@ -66,6 +66,12 @@
 ###Publish to Github Pages
 
 1. Modify mysite/config.toml file to add the lines that will allow your site to be published.
+```
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+```
 2. Make sure all your latest changes are committed and pushed.
 3. Create a new repo where your site will be published (`username.github.io`)
 4. Clone that repo in a separate folder (different from `my-profile-com-mx`)
