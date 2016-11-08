@@ -1,4 +1,4 @@
-#Who are we?
+# Who are we?
 
 * Ely Flores
     * Software Engineer @ [Nearsoft](http://nearsoft.com/)
@@ -10,7 +10,7 @@
     * ITESM - CEM
     * Code. Web. Videogames. Books. Coffee. Wine. Love
 
-#Agenda
+# Agenda
 1. Intro
 2. The tools
 3. Setup
@@ -21,13 +21,13 @@
 6. What is next?
     
 
-##Intro
-1. What are we going to do?
+## Intro
+1. What are we going to do? 
 2. What is the expectation?
 3. What is the motivation?
 
 
-##The tools
+## The tools
 1. [Git](https://git-scm.com/)
 2. [Github](https://github.com/)
 3. [Hugo](http://gohugo.io/)
@@ -36,23 +36,26 @@
 6. Any text editor
 
 
-##Setup
+## Setup / Prep
 1. Install Git (https://git-scm.com/downloads)
 2. Install Hugo (http://gohugo.io/overview/installing/)
+3. Create a Github Account!
 
 
-##Coding Time
+## Coding Time
 ### Create base site
 1. Create a Github repository (e.g. my-profile-com-mx)
 2. git clone `github_repository_url`
 3. cd `github_repository_folder`
 4. hugo new site mysite 
 5. cd mysite
-6. git clone https://github.com/gcushen/hugo-academic.git themes/academic
+6. git clone https://github.com/gcushen/hugo-academic.git themes/academic 
+   * http://themes.gohugo.io/academic/
 7. cp -av themes/academic/exampleSite/* .
     * Copy the example site from themes/academic into current directory, this will give us our base site to work on.
 8. hugo server --watch
 9. Site must be accessible at this URL: http://localhost:1313/
+10. Commit and push your changes!
 
 ### Personalize!
 1. Personalize your name (mysite/config.toml)
@@ -63,7 +66,7 @@
     * [[menu.main]]
 5. Update the content of your site
 
-###Publish to Github Pages
+### Publish to Github Pages
 
 1. Modify mysite/config.toml file to add the lines that will allow your site to be published.
 2. Make sure all your latest changes are committed and pushed.
@@ -77,7 +80,9 @@
 10. git add -A
 11. git commit -m "Publish site"
 12. git push
-13. Repeat steps from 5 to 12 to update / re-publish your site. 
+13. Go to to http://username.github.io to see your site live! :-)
+14. Repeat steps from 5 to 12 to update / re-publish your site. 
+
 
 ## What is next?
 
