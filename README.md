@@ -43,16 +43,16 @@
 
 ##Coding Time
 ### Create base site
-2. Create a Github repository (e.g. my-profile-com-mx)
-3. git clone `github_repository_url`
+1. Create a Github repository (e.g. my-profile-com-mx)
+2. git clone `github_repository_url`
 3. cd `github_repository_folder`
-2. hugo new site mysite 
-3. cd mysite
-4. git clone https://github.com/gcushen/hugo-academic.git themes/academic
-5. cp -av themes/academic/exampleSite/* .
+4. hugo new site mysite 
+5. cd mysite
+6. git clone https://github.com/gcushen/hugo-academic.git themes/academic
+7. cp -av themes/academic/exampleSite/* .
     * Copy the example site from themes/academic into current directory, this will give us our base site to work on.
-6. hugo server --watch
-7. Site must be accessible at this URL: http://localhost:1313/
+8. hugo server --watch
+9. Site must be accessible at this URL: http://localhost:1313/
 
 ### Personalize!
 1. Personalize your name (mysite/config.toml)
@@ -66,12 +66,6 @@
 ###Publish to Github Pages
 
 1. Modify mysite/config.toml file to add the lines that will allow your site to be published.
-```
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-canonifyurls = true
-```
 2. Make sure all your latest changes are committed and pushed.
 3. Create a new repo where your site will be published (`username.github.io`)
 4. Clone that repo in a separate folder (different from `my-profile-com-mx`)
